@@ -108,7 +108,7 @@ use vscode to open it
 ![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/latex%20button.png)
 Click the triangle button in the upper right corner to compile
 then click the second button and you can see the PDF
-![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/2.png)
+![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/2021-11-19%2009-56-40%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 Enjoy the LaTeX and have a nice day!
  
  
