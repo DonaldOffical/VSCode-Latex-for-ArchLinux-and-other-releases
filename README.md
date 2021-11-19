@@ -105,16 +105,10 @@ https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/conference-latex-tem
 ```
 you can find a file with ".tex"
 use vscode to open it
-```
 ![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/latex%20button.png)
-
-```
 Click the triangle button in the upper right corner to compile
 then click the second button and you can see the PDF
-```
 ![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/2.png)
-```
-
 Enjoy the LaTeX and have a nice day!
  
  
