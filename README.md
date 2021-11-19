@@ -4,6 +4,8 @@ latex installation note
 This note is more suitable for linux(base on Arch and the other linux versions)/ macOS(Unix). You need to replace the "pacman" to your own control rules while using this note. 
 Compared with Word, writing papers in latex has the advantage that latex has better page rendering and typesetting is more convenient and faster. In addition, more and more academics/conferences have released official latex templates. Learn latex syntax and focus on content rather than format.
 
+![image](https://github.com/DonaldOffical/VSCode-Latex-for-ArchLinux-and-other-releases/blob/main/images/b.png)
+
 If you don't wanna install the latex on your linux/macOS, you can use this online latex tool.
 ```
 https://www.overleaf.com/
